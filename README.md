@@ -1,8 +1,8 @@
 # Office-2021-Download-and-Activate
-How to download oficial and complete Microsoft Office 2021 and activate it using KMS client key
+##How to download oficial and complete Microsoft Office 2021 and activate it using KMS client key
 
 
-Download and install Office 2021
+##Download and install Office 2021
 First, make sure that the operating system version you are running is Windows 10 or later before you get started. There is no way to install Office 2021 on Windows 8.1 or earlier.
 Just go (https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2021Retail.img)  to get the official download link from Microsoft. The size of the IMG file is 4.2 GB. Double click on the file to mount it to a virtual drive on your PC once the download is complete. Then follow the instructions of the Setup Wizard to install Office 2021 on your Windows.
 This might take a while, please wait.
